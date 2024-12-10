@@ -1,6 +1,6 @@
 # TCC
 
-Softwares para leitura/execução :
+# Softwares para leitura/execução :
 
 Pre Processamento TCC: KNIME Analytics Platform
 
